@@ -19,3 +19,9 @@
 ### Pagination
 * Level-1: Should have page pagination elements of the page are fixed to 10
 
+### click on num 
+* * Level-2: Make a modal (pop-up) that contain the form.
+
+
+
+
